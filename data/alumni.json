@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "graduationYear": 2020,
+    "major": "Computer Science",
+    "currentJob": "Software Engineer at Google",
+    "location": "Mountain View, CA",
+    "linkedIn": "https://linkedin.com/in/johnsmith",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "bio": "Passionate software engineer with expertise in full-stack development."
+  },
+  {
+    "id": "2",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "graduationYear": 2019,
+    "major": "Business Administration",
+    "currentJob": "Marketing Director at Startup Inc",
+    "location": "Austin, TX",
+    "linkedIn": "https://linkedin.com/in/sarahjohnson",
+    "skills": [
+      "Digital Marketing",
+      "Strategy",
+      "Analytics",
+      "Leadership"
+    ],
+    "bio": "Marketing professional with a track record of driving growth for tech companies."
+  },
+  {
+    "id": "3",
+    "name": "Michael Chen",
+    "email": "michael.chen@email.com",
+    "graduationYear": 2021,
+    "major": "Data Science",
+    "currentJob": "Data Scientist at Meta",
+    "location": "Menlo Park, CA",
+    "linkedIn": "https://linkedin.com/in/michaelchen",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "bio": "Data scientist specializing in machine learning and predictive analytics."
+  },
+  {
+    "id": "4",
+    "name": "Emily Davis",
+    "email": "emily.davis@email.com",
+    "graduationYear": 2018,
+    "major": "Mechanical Engineering",
+    "currentJob": "Senior Engineer at Tesla",
+    "location": "Fremont, CA",
+    "linkedIn": "https://linkedin.com/in/emilydavis",
+    "skills": [
+      "CAD",
+      "Manufacturing",
+      "Project Management",
+      "Innovation"
+    ],
+    "bio": "Mechanical engineer working on sustainable transportation solutions."
+  }
+]
